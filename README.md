@@ -1,4 +1,4 @@
-# -Research Proposal 
+# Research Proposal 
 # Data-Driven Approach to Predict Solar Flares
 
 ## Overview
