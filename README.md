@@ -1,4 +1,4 @@
-# -Predict_Solar_Flares
+# -Research Proposal 
 # Data-Driven Approach to Predict Solar Flares
 
 ## Overview
