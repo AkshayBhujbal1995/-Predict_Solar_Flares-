@@ -18,7 +18,7 @@ The proposed methodology involves leveraging modified feature extractors, autore
 Accurate prediction of solar flares can help mitigate risks associated with adverse space weather conditions, thereby ensuring the safety of technologies and individuals affected by solar radiation.
 
 ## Author
-- Akshay Bhujbal ([https://github.com/yourusername](https://github.com/AkshayBhujbal1995/-Predict_Solar_Flares-/blob/main/abhu15041433-ric.pdf))
+- Akshay Bhujbal (https://github.com/AkshayBhujbal1995/-Predict_Solar_Flares-/blob/main/abhu15041433-ric.pdf)
 
 
 
